@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Dion
+#### I am Front End Developer
+![I am Front End Developer](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-535e3.webp)
 
-<!--
-**Noiddd/Noiddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning React!
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
